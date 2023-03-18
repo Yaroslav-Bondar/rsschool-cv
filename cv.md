@@ -109,3 +109,17 @@ function brightest(colors) {
   - [View the demo](https://yaroslav-bondar.github.io/X-ONE-adaptive-layout-Landing-Page-/)<br>
   - [source](https://github.com/Yaroslav-Bondar/X-ONE-adaptive-layout-Landing-Page-)
 
+### Education:
+
+  - National Technical University “Kharkiv Polytechnic Institute”, Engineering Specialist Diploma, Intelligent decision-making systems, Ukraine 
+  - W3schools, FrontEnd
+  - [JavaScript score on LinkedIn](https://www.linkedin.com/skill-assessments/JavaScript/report/)
+  - [RS Schools Course «JavaScript/Front-end» (in progress)](https://wearecommunity.io/events/js-fe-rs-2023q1)
+
+### Languages:
+  - English - Pre-Intermediate (A2)
+  - Ukrainian - Native
+  - Russian - Native
+
+
+
