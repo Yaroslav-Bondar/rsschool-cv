@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yaroslav-bondar.github.io/rsschool-cv/cv
